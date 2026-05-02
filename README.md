@@ -1,5 +1,7 @@
 # 💫 About Me:
-Tecnologias no trabalho atual.<br><br>Java Swing<br><br>SQL<br><br>JUnit e Mockito<br><br>IDE: Eclipse<br><br>Versionamento: GitLab<br><br>Gerenciamento do projeto: Scrum
+Sou desenvolvedor Java com experiência em sistemas corporativos, atuando no desenvolvimento, manutenção e evolução de software. Trabalho com foco em estabilidade, organização, qualidade de código e melhoria contínua, especialmente em cenários que exigem atenção à regra de negócio e confiabilidade.
+
+Minha experiência inclui Java, Java Swing, Oracle SQL, testes unitários, versionamento com Git, gestão de demandas com Jira e rotina ágil com Scrum. Também venho ampliando minha atuação em backend moderno com APIs REST, Spring Boot e Kotlin.
 
 
 ## 🌐 Socials:
